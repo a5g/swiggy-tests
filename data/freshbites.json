@@ -1,0 +1,32 @@
+{
+  "location": "Indiranagar, Bengaluru",
+  "restaurant": "Fresh Bites",
+  "redirectUrl": "https://www.swiggy.com/bangalore/fresh-bites-new-thipasandra-indiranagar",
+  "items": [
+    {
+      "name": "Gulab Jamun with Ice cream",
+      "qty": 5
+    },
+    {
+      "name": "Hot Chocolate Fudge",
+      "qty": 2
+    },
+    {
+      "name": "Chicken Biryani Combo",
+      "qty": 1
+    },
+    {
+      "name": "Rajma Chawal",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "name": "abc abc",
+    "phone": "0000000000",
+    "email": "abc@def.com",
+    "password": "abcd1234"
+  },
+  "error": {
+    "emailInvalid": "Invalid email address"
+  }
+}

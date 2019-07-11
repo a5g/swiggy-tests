@@ -1,0 +1,24 @@
+{
+  "location": "Indiranagar, Bengaluru",
+  "restaurant": "CakeZone",
+  "redirectUrl": "https://www.swiggy.com/bangalore/cakeszone-indiranagar-indiranagar",
+  "items": [
+    {
+      "name": "Black Forest Pastry",
+      "qty": 3
+    },
+    {
+      "name": "Chocolate Truffle Pastry",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "name": "abc abc",
+    "phone": "0000000000",
+    "email": "abc@def.com",
+    "password": "abcd1234"
+  },
+  "error": {
+    "emailInvalid": "Invalid email address"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "location": "Indiranagar, Bengaluru",
+  "restaurant": "Bite Me",
+  "locationOptions": ["Indiranagar", "Koramangala"],
+  "redirectUrl": "https://www.swiggy.com/bangalore/bite-me-cupcakes-100-feet-road-indiranagar",
+  "items": [
+    {
+      "name": "Red Velvet Cupcake",
+      "qty": 4
+    },
+    {
+      "name": "Tiramisu  Cupcake",
+      "qty": 2
+    },
+    {
+      "name": "Irish Coffee Cupcake",
+      "qty": 1
+    },
+    {
+      "name": "Choco Choco Cupcake",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "name": "abc abc",
+    "phone": "0000000000",
+    "email": "abc@def.com",
+    "password": "abcd1234"
+  },
+  "error": {
+    "emailInvalid": "Invalid email address"
+  }
+}
