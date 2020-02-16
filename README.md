@@ -1,8 +1,8 @@
-# swiggy-tests
+# webdriverio-test-boilerplate
 
-A sample assignment to build some tests around swiggy using WebdriverIO, Mocha, Gulp and some popular Node.js modules.
+A sample assignment to build some tests around swiggy using WebdriverIO, Mocha, Chai, Gulp and some popular Node.js modules.
 
-This covers testing all the scenarios mentioned in the coding challenge [document](https://github.com/a5g/swiggy-tests/blob/master/assets/code-challenge.pdf).
+This covers testing all the scenarios mentioned in the coding challenge [document](https://github.com/a5g/webdriverio-test-boilerplate/blob/master/assets/code-challenge.pdf).
 
 (Note: These tests can run without any issues during 10am and 10pm IST. Tests depends on few resturants that does not serve 24/7. So better to run between 10am and 10pm IST)
 
@@ -24,8 +24,8 @@ This covers testing all the scenarios mentioned in the coding challenge [documen
 ## Getting Started
 
 ```
-1. git clone git@github.com:a5g/swiggy-tests.git
-2. cd swiggy-tests
+1. git clone git@github.com:a5g/webdriverio-test-boilerplate.git
+2. cd webdriverio-test-boilerplate
 3. npm install
 4. gulp test
 5. gulp report
@@ -116,11 +116,11 @@ To view the Junit test reports
 ```
 
 Allure Report
-![allure](https://github.com/a5g/swiggy-tests/blob/master/assets/allure.png)
+![allure](https://github.com/a5g/webdriverio-test-boilerplate/blob/master/assets/allure.png)
 
 ## Test Summary
 
-![summary](https://github.com/a5g/swiggy-tests/blob/master/assets/summary.png)
+![summary](https://github.com/a5g/webdriverio-test-boilerplate/blob/master/assets/summary.png)
 
 ## Demo
 
