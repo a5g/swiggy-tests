@@ -51,7 +51,7 @@ exports.config = {
       maxInstances: 1,
       browserName: 'chrome',
       'goog:chromeOptions': {
-        args: ['window-size=1400,1200'],
+        args: ['window-size=1800,1200'],
       },
     },
     {

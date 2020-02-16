@@ -5,20 +5,12 @@
   "redirectUrl": "https://www.swiggy.com/bangalore/bite-me-cupcakes-100-feet-road-indiranagar",
   "items": [
     {
-      "name": "Red Velvet Cupcake",
+      "name": "Ferrero Rocher Cake in a Jar",
       "qty": 4
     },
     {
-      "name": "Tiramisu  Cupcake",
+      "name": "Choco Chip Cake-in-a-Jar",
       "qty": 2
-    },
-    {
-      "name": "Irish Coffee Cupcake",
-      "qty": 1
-    },
-    {
-      "name": "Choco Choco Cupcake",
-      "qty": 1
     }
   ],
   "user": {

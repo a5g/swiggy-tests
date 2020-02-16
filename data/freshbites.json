@@ -4,19 +4,15 @@
   "redirectUrl": "https://www.swiggy.com/bangalore/fresh-bites-new-thipasandra-indiranagar",
   "items": [
     {
-      "name": "Gulab Jamun with Ice cream",
+      "name": "Mushroom Manchurian",
       "qty": 5
     },
     {
-      "name": "Hot Chocolate Fudge",
+      "name": "Chicken Lollipop (6 pcs)",
       "qty": 2
     },
     {
-      "name": "Chicken Biryani Combo",
-      "qty": 1
-    },
-    {
-      "name": "Rajma Chawal",
+      "name": "Chicken 65",
       "qty": 1
     }
   ],

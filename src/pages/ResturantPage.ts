@@ -15,7 +15,7 @@ export default class ResturantPage extends BasePage {
     this.findVisibleElement(
       `//div[text()='${item}']/parent::div/parent::div/parent::div/parent::div/parent::div//div[@class='JWyJG']/div[2]/div[${btnIndex}]`,
     ).click()
-    browser.pause(3000)
+    browser.pause(1500)
   }
 
   // add qty for a given item (used when ADD button is visible on UI)

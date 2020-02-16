@@ -63,6 +63,6 @@ gulp.task(
 )
 gulp.task('test:swiggy', gulp.series(['clean', 'create:config', 'run:tests']))
 gulp.task('test', gulp.series(['test:swiggy']))
-gulp.task('report', run('npm run allure-report'))
+gulp.task('report', run('npm run report'))
 gulp.task('report:junit', run('npm run junit-report'))
 gulp.task('default', gulp.series(['test']))

@@ -1,7 +1,7 @@
 {
   "defaultSeverity": "error",
   "no-default-export": false,
-  "extends": ["tslint-config-airbnb"],
+  "extends": ["tslint:latest", "tslint-config-prettier"],
   "jsRules": {},
   "rules": {
     "quotemark": [true, "single", "avoid-escape", "jsx-double"],
